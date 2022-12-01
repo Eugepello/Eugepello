@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my Personal Website](http://www.eugeniopello.com/)
 
-- 🌱 I’m currently learning **Next JS and deepening my knowledge about React and TypeScript everyday.**
+- 🌱 I’m currently learning **Next JS and deepening my knowledge about React JS with TypeScript everyday.**
 
 - 👨‍💻 All of my projects and much more are available at [http://www.eugeniopello.com/](http://www.eugeniopello.com/)
 
