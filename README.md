@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eugenio Pello</h1>
 <h3 align="center">A passionate Front end Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [my Personal Website](https://eugenio-pello.vercel.app/)
+- 🔭 I’m currently working on [my Personal Website](https://eugeniopello.com/)
 
 - 🌱 I’m currently learning **Next JS and deepening my knowledge about React JS with TypeScript everyday.**
 
-- 👨‍💻 All of my projects and much more are available at [http://www.eugeniopello.com/](https://eugenio-pello.vercel.app/)
+- 👨‍💻 All of my projects and much more are available at [http://www.eugeniopello.com/](https://eugeniopello.com/)
 
 - 💬 Ask me about **React JS, TypeScript, JavaScript**
 
