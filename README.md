@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eugenio Pello</h1>
 <h3 align="center">A passionate Front end Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [my Personal Website](https://eugeniopello.com/)
+- 🔭 I’m currently working on Next JS & TypeScript projects
 
 - 🌱 I’m currently learning **Next JS and deepening my knowledge about React JS with TypeScript everyday.**
 
