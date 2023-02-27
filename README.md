@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eugenio Pello</h1>
 <h3 align="center">A passionate Front end Developer from Argentina</h3>
 
-- 🔭 I’m currently working on my portfolio with various [projects](github.com/Eugepello)
+- 🌱 I’m currently mastered **Javascript, Typescript, React, Node, Next.js, Vue, Angular and deepening my knowledge about other fields everyday.**
 
-- 🌱 I’m currently learning **Next JS and deepening my knowledge about React JS with TypeScript everyday.**
+- 👨‍💻 My portfolio at [http://www.eugeniopello.com/](https://eugeniopello.com/)
 
-- 👨‍💻 All of my projects and much more are available at [http://www.eugeniopello.com/](https://eugeniopello.com/)
-
-- 💬 Ask me about **React JS, TypeScript, JavaScript**
-
-- 📫 How to reach me **eugepello@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
