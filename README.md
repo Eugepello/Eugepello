@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently mastered **Javascript, Typescript, React, Node, Next.js, Vue, Angular and deepening my knowledge about other fields everyday.**
 
-- 👨‍💻 My portfolio at [http://www.eugeniopello.com/](https://eugeniopello.com/)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
