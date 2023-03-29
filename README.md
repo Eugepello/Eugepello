@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eugenio Pello</h1>
 <h3 align="center">A passionate Front end Developer from Argentina</h3>
 
-- 🌱 I’m currently mastered **Javascript, Typescript, React, Node, Next.js, Vue, Angular, Python, PHP and deepening my knowledge about other fields everyday.**
+- 🌱 I’m currently mastered **Javascript, Typescript, React, Next.js and deepening my knowledge about other fields everyday.**
 
 
 <h3 align="left">Connect with me:</h3>
