@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eugenio Pello</h1>
-<h3 align="center">A passionate Front end Developer from Argentina</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 - 🌱 **I'm a Full stack Web Developer with 8+ years experienced in building from small to large sized websites. Also, I have a Degree on Computer Sciences, so i can expand the spectre about business vision when working at it.
 
