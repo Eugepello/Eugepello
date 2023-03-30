@@ -7,7 +7,7 @@ I'm experienced in Both frontend and backend with HTML5, CSS3, JavaScript and ma
 
 Major Tech stacks:
 
-- Frontend:  Javascript/Typescript, React, Vue, Angular(7, 8, 12, 13...), Next.js, Nuxt.js,  Redux, Redux-saga, Redux-thunk, Redux-toolkit, Vuex, Vuetify, Vue3,  RxJS, 
+- Frontend:  Javascript/Typescript, React, Next.js, Redux, Redux-saga, Redux-thunk, Redux-toolkit, Vue, Nuxt.js, Vuex, Vuetify, Vue3, Pinia, Angular(7, 8, 12, 13...), RxJS, 
 
 - Backend : Node, Express, Proxy, PHP, CodeIgniter, Laravel, Symfony, Zend, Yii, Wordpress, Python, Django, Flask
 
