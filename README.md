@@ -1,29 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eugenio Pello</h1>
-<h3 align="center">Senior Fullstack Engineer| React, Vue, Angular, Node, Python, PHP |8+ Years</h3>
+<h3 align="center">A passionate Front end Developer from Argentina</h3>
 
-- 🌱 **I'm a Full stack Web Developer with 8+ years experienced in building from small to large sized websites. Also, I have a Degree on Computer Sciences, so i can expand the spectre about business vision when working at it.
-
-I'm experienced in Both frontend and backend with HTML5, CSS3, JavaScript and many of the frameworks and libraries around them. For example: Bootstrap, Tailwind, React, Vue, Angular etc. and Node, PHP, Python.
-
-Major Tech stacks:
-
-- Frontend:  Javascript/Typescript, React, Next.js, Redux, Redux-saga, Redux-thunk, Redux-toolkit, Vue, Nuxt.js, Vuex, Vuetify, Vue3, Pinia, Angular(7, 8, 12, 13...), RxJS, 
-
-- Backend : Node, Express, Proxy, PHP, CodeIgniter, Laravel, Symfony, Zend, Yii, Wordpress, Python, Django, Flask
-
-- Database: PostgreSQL, MySQL, MongoDB, SQL, DynamoDB, Neptune
-
-- Cloud: Aws, Ec2, Lambda, API Gateway, Neptune, DynamoDB, Serverless, CI/CD, K8s, Godaddy, Bluehost, Cpanel, Linux, 
-
-- Deployment: CI/CD, Circle CI, Github/Gitlab/Bitbucket Pipeline and CI/CD
-
-- IOT, MQTT, RabbitMQ, Kafka, Feign, 
-
-- Electron, browser extension, Chrome extension, 
-
-
-- A Good Team Player, Great communication skill, Positive attitude, Good task management
-...**
+- 🌱 I’m currently mastered **Javascript, Typescript, React, Next.js and deepening my knowledge about other fields everyday.**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -52,3 +30,4 @@ Major Tech stacks:
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
 </p>
+
